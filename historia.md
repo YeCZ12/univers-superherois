@@ -3,3 +3,5 @@ Ichigo vs Aizen
 
 Ichigo vs Grimmjow
 - Soul Society
+
+Aizen vs Yhwach

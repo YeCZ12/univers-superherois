@@ -1,5 +1,5 @@
 Soul Society
-- Rukia, Renji, Kenpachi
+- Rukia, Renji, Kenpachi, Yamamoto
 
 Hueco Mundo
 - Grimmjow, Dondochakka

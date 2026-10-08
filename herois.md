@@ -1,7 +1,6 @@
 Ichigo
 - Tiene parte de los poderes de todas las razas ya que es una combinación de muchas.
 - Protagonista, rubio, alto.
-
 Orihime
 - Tiene el poder de negar cosas (como por ejemplo negar una herida)
 - Amiga del protagonista, humana, pelo naranja.
@@ -14,3 +13,6 @@ Chad
 Rukia
 - Tiene el poder de controlar la temperatura de las cosas para congelarlas
 - Amiga del protagonista, bajita, pelo negro, Soul Reaper (raza)
+Renji
+- Tiene el poder de convertir su espada en una serpiente
+- Amigo de Rukia y el protagonistsa, pelo rojo, alto, Soul Reaper (raza)
